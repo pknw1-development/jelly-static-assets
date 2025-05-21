@@ -7,7 +7,7 @@
     "overview": "Upload and manage static assets for use in custom JavaScript",
     "description": "A plugin that allows users to upload and manage static assets (images, etc.) that can be used in custom JavaScript injections.",
     "owner": "YourName",
-    "repository": "https://github.com/yourusername/jellyfin-static-assets",
+    "repository": "https://github.com/cleverdevil/jellyfin-static-assets",
     "category": "General",
     "titleColor": "#5271ff",
     "imageUrl": "https://example.com/images/plugin-image.png",
