@@ -12,7 +12,7 @@
                     "version": "0.0.1.0",
                     "changelog": "Initial release",
                     "targetAbi": "10.8.0.0",
-                    "sourceUrl": "https://github.com/yourusername/jellyfin-static-assets/releases/download/v0.0.1.0/StaticAssets_0.0.1.0.zip",
+                    "sourceUrl": "https://github.com/cleverdevil/jellyfin-static-assets/releases/download/v0.0.1.0/StaticAssets_0.0.1.0.zip",
                     "checksum": "da1531e555bfeba8f5270428b56807d45347b75fcfaa7566b1a149843791b104",
                     "timestamp": "2025-04-21T23:34:10Z"
                 }
