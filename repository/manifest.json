@@ -1,5 +1,4 @@
-{
-    "plugins": [
+[
         {
             "guid": "1f826750-d8f1-4e44-a814-9432d2833dc0",
             "name": "Static Assets Manager",
@@ -19,4 +18,3 @@
             ]
         }
     ]
-}
